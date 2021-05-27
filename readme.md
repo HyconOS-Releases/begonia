@@ -2,14 +2,13 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/begonia/v3.0/total.svg)](https://GitHub.com/Hycon-Releases/begonia/releases)
+
+
+
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/begonia/V2.5/total.svg)](https://GitHub.com/Hycon-Releases/begonia/releases)
 
 
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/begonia/V2.0/total.svg)](https://GitHub.com/Hycon-Releases/begonia/releases)
 
-
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/begonia/V1.5/total.svg)](https://GitHub.com/Hycon-Releases/begonia/releases)
-
-
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/begonia/V1.0_Aureus/total.svg)](https://GitHub.com/Hycon-Releases/begonia/releases)
