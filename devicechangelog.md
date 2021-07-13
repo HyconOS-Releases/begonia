@@ -1,7 +1,14 @@
 # Changelog for Xiaomi Redmo Note 8 Pro (Begonia)
 
+## HyconOS V4.0 - 13/07/2021
+- Merged July SP 
+- Gapps Included
+- Fw Included﻿
+- Enabled GBoard Rounded Corners
+- Update Neural Networks stack from begonia V12.5.1.0 RGGCNXM
+
 ## HyconOS V3.5 - 20/06/2021
-- Merged May SP 
+- Merged June SP 
 - Gapps Included
 - Fw Included﻿
 - Update blobs from begonia V12.0.7.0.QGGMIXM 
