@@ -2,6 +2,9 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/begonia/V4.5/total.svg)](https://GitHub.com/Hycon-Releases/begonia/releases)
+
+
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/begonia/V4.0/total.svg)](https://GitHub.com/Hycon-Releases/begonia/releases)
 
 

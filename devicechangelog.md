@@ -1,5 +1,13 @@
 # Changelog for Xiaomi Redmo Note 8 Pro (Begonia)
 
+## HyconOS V4.5 - 29/08/2021
+- Merged August SP 
+- Gapps Included
+- Fw Included﻿
+- Added brightness values from sunfish 
+- Added MIUI Poweroff charging Animation
+- Fixed LED Indicator in Offline Charging 
+
 ## HyconOS V4.0 - 13/07/2021
 - Merged July SP 
 - Gapps Included
