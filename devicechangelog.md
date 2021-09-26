@@ -1,5 +1,29 @@
 # Changelog for Xiaomi Redmo Note 8 Pro (Begonia)
 
+## HyconOS V4.5.1 - 26/09/2021
+- September Security Patch
+- FW Included
+- SElinux Enforcing
+- Safety Net passed by default
+- Enable VNDK runtime isolation 
+- Update kernel from begonia-r-oss
+- Kernel upstream from to 4.14.246
+- Inlined kernel modules
+- begonia: overlay: Update brightness values from redfin
+- Fixed Night Light Flickering
+- Update firmware begonia V12.5.3.0.RGGMIXM
+- Update audio configs from begonia V12.5.1.0.RGGMIXM 
+- Update blobs from begonia V12.5.3.0.RGGMIXM 
+- Update media configs from begonia V12.5.1.0.RGGMXM
+- Update seccomp configs from begonia V12.5.1.0.RGGMIXM
+- Update public.libraries from begonia V12.5.1.0.RGGMIXM
+- Update permissions from begonia V12.5.1.0.RGGMIXM
+- Update rootdir from begonia V12.5.1.0.RGGMIXM 
+- Update dtbo certs from begonia V12.5.1.0.RGGMIXM
+- Update properties from begonia V12.5.1.0.RGGMIXM 
+- Turn on BOARD_USES_METADATA_PARTITION
+- Enforce RRO for all resource overlays
+
 ## HyconOS V4.5 - 29/08/2021
 - Merged August SP 
 - Gapps Included
